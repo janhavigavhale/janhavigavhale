@@ -9,7 +9,9 @@ First year Computer Science student at VIT Pune, with a specialization in Data S
 - [Portfolio](https://janhavigavhale.github.io/aws-webdev-tasks/task1-portfolio/)
 
 ##Find me:
+
 -[LinkedIn](https://www.linkedin.com/in/janhavi-gavhale-314883425?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 -[X/Twitter](https://x.com/jznhzvi)
 
 <!--
