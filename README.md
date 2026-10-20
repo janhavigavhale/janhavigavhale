@@ -1,5 +1,5 @@
 ## Hi there, I am Janhavi.👋
-First year Computer Science student at VIT Pune, with a specialization in Data Science. 
+I am a first year Computer Science student at VIT Pune, with a specialization in Data Science. 
 
 ##What I am learning right now:
 1. Learning CSS and JavaScript.
